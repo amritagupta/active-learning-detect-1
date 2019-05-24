@@ -1,5 +1,5 @@
 # Active learning + object detection
-Labeling images for object detection is commonly required task to get started with Computer Vision related project.
+TEST. Labeling images for object detection is commonly required task to get started with Computer Vision related project.
 Good news that you do not have to label all images  (draw bounding boxes) from scratch --- the goal of this project is to add (semi)automation to the process. 
 Please refer to this blog post that describes Active Learning and semi-automated flow: 
   [Active Learning for Object Detection in Partnership with Conservation Metrics](https://www.microsoft.com/developerblog/2018/11/06/active-learning-for-object-detection/)
